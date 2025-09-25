@@ -4,14 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst / ML Engineer
 -----------------------------
 
-* 🧠  I'm learning AI developing
+* 🧠  Currently deepening my knowledge in neural networks and MLOps with The Founder course
 * 🤝  I'm open to collaborating on interesting FOSS projects
+* 📈  Building data-driven solutions for business automation and predictive analytics
 
 ### Skills
 
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" width="36" height="36" alt="Pandas" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="NumPy" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="36" height="36" alt="Scikit-learn" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://datalens.ru/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/134070780?s=48&v=4" width="36" height="36" alt="DataLens" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/logomark-white@2x.png" width="36" height="36" alt="Git" /></a>
