@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Damir Ziatdinov
 =======================================================================================================================================
 
-Data Analyst and AI developer
+Data Analyst / ML Engineer
 -----------------------------
 
 * 🧠  I'm learning AI developing
@@ -13,9 +13,8 @@ Data Analyst and AI developer
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="36" height="36" alt="Keras" /></a>
-<a href="https://datalens.ru/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/134070780?s=48&v=4" width="36" height="36" alt="Keras" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/logomark-white@2x.png" width="36" height="36" alt="Keras" /></a>
+<a href="https://datalens.ru/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/134070780?s=48&v=4" width="36" height="36" alt="DataLens" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/logomark-white@2x.png" width="36" height="36" alt="Git" /></a>
 </p>
 
 
