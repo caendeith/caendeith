@@ -101,6 +101,12 @@
   <img src="https://streak-stats.demolab.com/?user=caendeith&amp;hide_border=true&amp;theme=tokyonight" alt="caendeith's contribution streak" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caendeith&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;title_color=8a2be2&amp;text_color=c9d1d9&amp;icon_color=22d3ee&amp;bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caendeith&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;title_color=7c3aed&amp;text_color=24292f&amp;icon_color=0891b2&amp;bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caendeith&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;title_color=8a2be2&amp;text_color=c9d1d9&amp;icon_color=22d3ee&amp;bg_color=0d1117" alt="caendeith's most used languages" />
+</picture>
+
 </div>
 
 ---
